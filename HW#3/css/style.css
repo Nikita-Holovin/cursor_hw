@@ -1,0 +1,53 @@
+body{
+    background: #e5e5e5;
+}
+
+h1{
+    position: absolute;
+    width: 1123px;
+    height: 133px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 110px;
+    line-height: 133px;
+    display: flex;
+    align-items: center;
+    color: #0B2239;
+
+}
+
+.version{
+    position: absolute;
+    width: 82px;
+    height: 48px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 48px;
+    display: flex;
+    align-items: center;
+    color: #0B2239;
+    opacity: 0.3;
+
+}
+
+.email{
+    position: absolute;
+    width: 389px;
+    height: 48px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 48px;
+    display: flex;
+    align-items: center;
+    color: #0B2239;
+    opacity: 0.3;
+    margin-top: 230px;
+
+
+}
+
