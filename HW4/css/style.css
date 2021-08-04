@@ -1,0 +1,305 @@
+body{
+    margin: 0 auto;
+    width: 1440px;
+    font-family: 'Lato', sans-serif;
+
+}
+
+header{
+    background :#ED4C5C;
+    position: absolute;
+    width: 1440px;
+    height: 500px;
+
+}
+
+.first-section>h2{
+    color: white;
+    width: 445px;
+    height: 107px;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    margin: 122px 125px 24px 165px;
+
+}
+
+.first-section>p{
+    color: white;
+    width: 445px;
+    height: 64px;
+    font-size: 14px;
+    margin-left: 165px;
+    margin-bottom: 44px;
+    line-height: 140%;
+
+}
+
+.main-img{
+    position: absolute;
+    width: 445px;
+    height: 311px;  
+    margin-left: 691px;
+    top: 94px;
+
+}
+
+.play-market{
+    position: absolute;
+    margin-left: 160px;
+
+}
+
+.app-store{
+    position: absolute;
+    margin-left: 220px;
+    top: 364px;
+}
+
+.windows{
+    position: absolute;
+    margin-left: 275px;
+    top: 365px;
+
+}
+
+main{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.second-section{
+    position: absolute;
+    width: 1440px;
+    height: 500px;
+    left: 0px;
+    top: 500px;
+    background: #FFFFFF;
+    
+    
+}
+
+.second-section>h2{
+    position: absolute;
+    top: 117px;
+    left: 176px;
+    font-size: 36px;
+    
+}
+
+.second-section>p{
+    position: absolute;
+    left: 176px;
+    top: 213px;
+    width: 434px;
+    height: 64px;
+    line-height: 140%;
+    font: bold;
+    text-align: justify;
+
+}
+
+.first-name{
+    width: 255px;
+    height: 60px;
+    left: 735px;
+    top: 117px;
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin-bottom: 30px;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(19, 39, 67, 0.5);
+    padding-left: 31px;
+
+}
+
+.last-name{
+    width: 255px;
+    height: 60px;
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin-left: 30px;
+    padding-left: 32px;
+    font-size: 16px;
+
+}
+
+.input{
+    font-size: 16px;
+    width: 540px;
+    height: 60px;
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin-bottom: 24px;
+    padding-left: 32px;
+
+}
+
+button{
+    font-size: 14px;
+    width: 160px;
+    height: 50px;
+    background: #ED4C5C;
+    border: 1.5px solid #ED4C5C;
+    box-sizing: border-box;
+    border-radius: 6px;
+    color: #FFFFFF;  
+
+}
+
+.contact-section{
+    position: absolute;
+    left: 735px;
+    margin-top: 300px;
+
+}
+
+.button-wrapper{
+    position: absolute;
+    margin-top: 12px;
+    line-height: 17px;
+
+}
+
+.down-arrow{
+    position: absolute;
+    left: 500px;
+    top: 200px;
+
+}
+
+footer{
+    position: absolute;
+    width: 1440px;
+    height: 435px;
+    text-decoration: none;
+    background: #FAFAFA;
+    top: 1045px;
+
+}
+
+/*.footer-wrapper{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: baseline;
+    padding-top: 85px;
+
+}*/
+
+.address-block{
+    position: absolute;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    color: #101010;
+    text-decoration: none;
+    margin-left: 166px;
+    margin-top: 165px;
+    line-height: 150%;
+
+}
+
+
+
+.address{
+    position: absolute;
+    font-size: 25px;
+    margin-top: 110px;
+    margin-left: 166px;
+
+}
+
+.services{
+    position: absolute;
+    font-size: 25px;
+    margin-top: 110px;
+    margin-left: 500px;
+
+
+}
+
+.services-block{
+    position: absolute;
+    font-weight: bold;
+    font-size: 18px;
+    color: #101010;
+    text-decoration: none;
+    line-height: 150%;
+    margin-top: 165px;
+    margin-left: 500px;
+
+}
+
+.get-in{
+    position: absolute;
+    font-size: 25px;
+    margin-top: 110px;
+    margin-left: 744px;
+
+}
+
+a{
+    position: absolute;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    color: #101010;
+    line-height: 150%;
+    margin-top: 180px;
+    margin-left: 744px;
+
+}
+
+.tel{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    line-height: 150%;
+    margin-top: 215px;
+
+}
+
+.img-social-media{
+    position: absolute;
+    margin-top: 265px;
+    margin-left: 744px;
+    height: 19px;
+    width: auto;
+
+}
+
+.support{
+    position: absolute;
+    font-size: 25px;
+    margin-top: 110px;
+    margin-left: 1022px;
+
+}
+
+.cards{
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 1022px;
+
+}
+
+.copyright{
+    position: absolute;
+    font-size: 15px;
+    margin-left: 161px;
+    margin-top: 345px;
+    color: #101010;
+    
+}
+
+
