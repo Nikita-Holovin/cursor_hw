@@ -382,6 +382,7 @@ body{
 }
 
 .eighth-section>button{
+    position: absolute;
     height: 33px;
     width: 64px;
     background: #6666FF;
@@ -391,10 +392,9 @@ body{
     font-family: 'Inter', sans-serif;
     font-size: 14px;
     margin-left: 248px;
-    display: flex;
     line-height: 17px;
     padding: 8px;
-  
+    
 }
 
 
